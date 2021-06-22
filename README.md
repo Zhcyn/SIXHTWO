@@ -1,0 +1,2 @@
+# SIXHTWO
+A daily journal iOS application to keep track of your mood, to-do lists, goals, and more.  Use Details: -Add as many sections to your journal as you want -Customize the sections of your journal by choosing a title and color.  Features Currently in Development: -Daily mood tracking -Built-in calendar -Daily journal writing prompts  The current application is still under development, and more functions will be added in the future. If you encounter problems during the test, please contact me
